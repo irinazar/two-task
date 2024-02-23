@@ -1,0 +1,16 @@
+.app {
+  min-height: 100vh;
+  font-size: 14px;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar-expand-lg {
+  padding: 0;
+}
+
+.ant-form-item-required {
+  min-width: 72px;
+}
+
+
